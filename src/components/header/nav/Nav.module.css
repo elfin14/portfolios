@@ -1,0 +1,9 @@
+.menu{
+    width: 300px;
+    border: 2px solid #fc876c;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+}

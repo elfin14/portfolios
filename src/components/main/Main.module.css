@@ -1,0 +1,31 @@
+.main{
+    height: 100vh;
+    background-color: #ffdee9;
+
+}
+.containerMain{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.title{
+    background-color: #bbbdbe;
+    padding: 5px;
+    font-size: 18px;
+}
+.name{
+    font-size: 20px;
+    margin: 0;
+}
+p{
+    margin: 5px 0 0 0;
+    font-size: 18px;
+}
+.photo{
+    max-width: 320px;
+    width: 100%;
+    height: 420px;
+    background-color: #bbbdbe;
+}

@@ -1,0 +1,46 @@
+.contactBlock {
+    min-height: 100vh;
+    background-color: #a3b3ea;
+    display: flex;
+    align-items: center;
+
+}
+
+.containerContact {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    max-width: 315px;
+    width: 100%;
+}
+
+.input {
+    margin-bottom: 10px;
+    outline: none;
+    border: none;
+}
+
+.textarea {
+    outline: none;
+    border: none;
+}
+
+.button {
+    margin-top: 15px;
+    border: none;
+    color: #000;
+    background-color: #e19e6b;
+    cursor: pointer;
+    font-weight: 500;
+    padding: 10px 15px;
+}
+
+.button:hover {
+    background-color: #717379;
+}

@@ -1,0 +1,31 @@
+.footerBlock {
+    height: 200px;
+    background-color: #dff8df;
+}
+.containerFooter{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+.title{
+    margin: 0;
+    background-color: #bbbdbe;
+    padding: 5px;
+}
+.items{
+    display: flex;
+    justify-content: space-between;
+    width: 245px;
+    border: 1px solid #717379 ;
+}
+.item{
+    width: 35px;
+    height: 35px;
+    background-color: #b7bbb6;
+}
+.copyright{
+    background-color: #bbbdbe;
+    padding: 2px;
+    font-weight: 700;
+}

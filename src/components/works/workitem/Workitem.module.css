@@ -1,0 +1,34 @@
+.work {
+    max-width: 450px;
+    width: 100%;
+    margin-left: 10px;
+}
+.image {
+    height: 250px;
+    width: 100%;
+    background-color: #7e7f9d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button {
+    color: #ffff;
+    background-color: #0942d0;
+    cursor: pointer;
+    font-weight: 500;
+    padding: 10px 15px;
+}
+.button:hover {
+    background-color: #042f9d;
+}
+.description {
+    padding-left: 20px;
+}
+.text{
+    padding-bottom: 15px;
+    margin: 0;
+}
+.title{
+    margin: 0;
+    padding: 10px 0;
+}
